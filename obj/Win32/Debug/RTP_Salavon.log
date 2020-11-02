@@ -1,0 +1,12 @@
+﻿  main.cpp
+  ofApp.cpp
+c:\users\dgrif\onedrive\documents\of_v0.11.0_vs2017_release\apps\myapps\rtp_salavon\src\ofapp.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgrif\onedrive\documents\of_v0.11.0_vs2017_release\apps\myapps\rtp_salavon\src\ofapp.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  RTP_Salavon.vcxproj -> C:\Users\dgrif\OneDrive\Documents\of_v0.11.0_vs2017_release\apps\myApps\RTP_Salavon\bin\RTP_Salavon_debug.exe
+  
+  	                   2	C:\Users\dgrif\OneDrive\Documents\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\dgrif\OneDrive\Documents\of_v0.11.0_vs2017_release\apps\myApps\RTP_Salavon\bin\FreeImage.dll
+  
+  	                   1	C:\Users\dgrif\OneDrive\Documents\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\dgrif\OneDrive\Documents\of_v0.11.0_vs2017_release\apps\myApps\RTP_Salavon\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\dgrif\OneDrive\Documents\of_v0.11.0_vs2017_release\apps\myApps\RTP_Salavon\bin\fmodexL.dll
